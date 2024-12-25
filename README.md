@@ -1,8 +1,3 @@
-# jekyll
-
-Certainly! Here's a `README.md` that outlines the steps for setting up Jekyll for a GitHub Pages site on an Ubuntu system. This document is designed to guide users through the entire process, from setting up the environment to pushing the site live on GitHub Pages.
-
-```markdown
 # Setting Up Jekyll for a GitHub Pages Site on Ubuntu
 
 This guide walks you through the process of setting up a Jekyll-based static site on Ubuntu, and then publishing it to GitHub Pages.
